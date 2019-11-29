@@ -1,0 +1,24 @@
+.appWrapper {
+    display: grid;
+    grid-template-areas: 'header header'
+    'navBar content';
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 10px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.wrapperContent {
+    background-color: aliceblue;
+    grid-area: content;
+}
+
+
+
+
+
+
+
+
+

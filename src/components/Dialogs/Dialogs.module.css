@@ -1,0 +1,38 @@
+.dialogs {
+    width: 70%;
+    display: grid;
+    grid-template-areas: 'users dialog';
+    grid-template-columns: 4fr 8fr;
+}
+
+.item a {
+    color: gray;
+}
+
+.dialogsItems {
+    color: darkslategray;
+    border-right: 1px solid gray;
+    margin-left: 15px;
+}
+.dialogsMessages {
+    color: darkslategray;
+    margin-left: 15px;
+}
+
+.dialogsMessages button {
+    margin-bottom: 5px;
+}
+
+.dialogsItems textarea {
+    font-size: 9px;
+    color: darkgray;
+}
+
+.messages {
+    width: 60%;
+}
+
+.dialogsItems h4 {
+    font-size: 15px;
+    color: darkslategray;
+}

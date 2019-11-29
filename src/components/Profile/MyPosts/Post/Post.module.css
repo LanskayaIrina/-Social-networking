@@ -1,0 +1,15 @@
+.item {
+    color: gray;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.item img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.item span {
+    color: gray;
+    font-size: 12px;
+}

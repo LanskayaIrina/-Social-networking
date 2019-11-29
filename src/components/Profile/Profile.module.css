@@ -1,0 +1,15 @@
+.content {
+  grid-area: content;
+  background-color: aliceblue;
+}
+
+.profile h3 {
+  font-weight: normal;
+}
+
+.profileImg img {
+  height: 125px;
+  width: 100%;
+}
+
+

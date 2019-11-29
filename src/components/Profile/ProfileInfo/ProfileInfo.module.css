@@ -1,0 +1,16 @@
+.profileInfo {
+  margin: 10px;
+}
+
+.profileInfo img {
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+}
+
+.profileInfo span {
+  font-size: 18px;
+  font-weight: bolder;
+  margin-left: 30px;
+}
+
